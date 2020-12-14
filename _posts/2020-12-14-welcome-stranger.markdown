@@ -10,7 +10,7 @@ categories:
 Jekyll is a program that makes static pages accessible to anybody. It converts html to human languge and human language to html.</p>
 
 <p>I want to say thank you to Amanda Visconti, without her I would've never made this website.<br />
-She wrote the course [Building a static website with Jekyll and GitHub Pages][Building a static website with Jekyll and GitHub Pages] which guides you to every step in the making of your site.<br />
+She wrote the course [Building a static website with Jekyll and GitHub Pages][Building a static website with Jekyll and GitHub Pages] which guides you through every step in the making of your site.<br />
 Check it out if you want to make your own! </p>
 
 <p>Thank you to [The Programming Historian][The Programming Historian] website and all their members.<br />
