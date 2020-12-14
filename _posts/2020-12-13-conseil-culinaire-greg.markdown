@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Greg's Post"
+title:  "Conseil culinaire du chef Greg"
 date:   2020-12-13 14:48:00 +0100
 categories: 
 ---
